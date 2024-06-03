@@ -9,12 +9,14 @@ Nos meus momentos de lazer, sou um entusiasta de:
 - **Histórias em quadrinhos**
 - **Natureza**: Gosto de explorar belas paisagens e estar em contato com a natureza.
 
+<br>
 <div>
   <a href="https://github.com/hugo-bm">
     <img alt="status card" height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-bm&show_icons=true&theme=city_lights"/>
  <!--   <img alt="Language Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-bm&layout=compact&custom_title=Linguagens%20mais%20usadas&theme=city_lights"/>
   </a>-->
 </div>
+
 
 ## Tecnologias e Ferramentas
 
@@ -94,12 +96,7 @@ Nos meus momentos de lazer, sou um entusiasta de:
 - **Integração de Sistemas**
 
 ## Idiomas
-- **Inglês**: Básico
-
-## Contato
-- **E-mail**: hugo.moreno@example.com
-- **LinkedIn**: [linkedin.com/in/hugo-moreno](https://linkedin.com/in/hugo-moreno)
-- **GitHub**: [github.com/hugo-moreno](https://github.com/hugo-moreno)
+- **Inglês**: Iniciante
 
 ---
 
